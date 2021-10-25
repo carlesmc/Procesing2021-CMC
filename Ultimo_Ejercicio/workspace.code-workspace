@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../animacion"
+		},
+		{
+			"path": "../colores_pixeles"
+		},
+		{
+			"path": "../collage"
+		},
+		{
+			"path": "../trazo_libre"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
